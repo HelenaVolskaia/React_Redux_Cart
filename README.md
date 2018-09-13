@@ -1,5 +1,5 @@
-# awesome-cart
-create-react-app + redux
+# Shopping Cart
+React + redux
 
 Run: 
 1) npm i
